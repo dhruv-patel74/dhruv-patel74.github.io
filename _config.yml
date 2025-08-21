@@ -62,6 +62,15 @@ skills:
     - Breadboarding (circuit testing)
     - Circuit Assembly / Wiring
     - PCB Soldering
+  - category: Hardware & Electronics
+    tools:
+    - Motors (DC, Servo, Stepper)
+    - Encoders
+    - Endstops / Limit Switches
+    - Microcontrollers
+    - Sensors
+    - Actuators (Servos, Vibration Motors)
+    - Power Systems (battery integration, voltage regulation)
   - category: Programming & Tools
     tools:
     - Python
