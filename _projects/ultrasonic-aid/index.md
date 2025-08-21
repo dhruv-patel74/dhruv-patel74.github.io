@@ -1,7 +1,7 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: The Ultrasonic Aid
+description:  Honors Intro to Engineering Semester Project
 skills: 
 - skill 1
 - skill 2
