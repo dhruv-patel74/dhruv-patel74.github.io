@@ -1,7 +1,7 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: ZennMouse
+description:  Honors Design & Development Semester Project
 skills: 
 - skill 1
 - skill 2
