@@ -3,7 +3,8 @@ layout: post
 title: ZennMouse
 description:  Honors Design & Development Semester Project
 skills: 
-- skill 1
-- skill 2
+- Engineering Notebook
+- Onshape
+- Python
 main-image: /project.webp 
 ---
