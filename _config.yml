@@ -19,8 +19,8 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I am an Honors College student at Rutgers University pursuing a degree in Biomedical Engineering with a minor in Business Administration
   graduating in 2027.
   Here, I am going to showcase a range of accomplishments and experiences I have accumulated throughout my journey.
-  From developing wearable devices and robotics prototypes to exploring how engineering principles can enhance rehabilitation
-  , I hope I can clearly highlight how passionate I am about my interests as I wander through life.
+  From developing wearable devices and robotics prototypes to exploring how engineering principles can enhance rehabilitation, I hope I
+  can clearly highlight how passionate I am about my interests as I wander through life.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images:profile-image/IMG_5675.JPEG
