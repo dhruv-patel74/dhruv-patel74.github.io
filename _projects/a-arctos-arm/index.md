@@ -12,7 +12,7 @@ skills:
 - Motors (DC, Servo, Stepper)
 - Encoders
 - Endstops / Limit Switches
-main-image: /project.webp 
+main-image: /arctos-project-cover.jpg 
 ---
 
 
