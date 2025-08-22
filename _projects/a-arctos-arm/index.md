@@ -18,6 +18,8 @@ main-image: /project.webp
 
 ---
 
+# STILL GATHERING PHOTOS AS OF NOW ( linkedin post incoming :D )
+
 ## Overview  
 This project involved bringing the ARCTOS Studio Robotic Arm kit to life by handling all the physical assembly, electrical integration, and system wiring. I printed the components, assembled the mechanisms, and developed the hardware architecture for a 6-DOF closed-loop robotic arm.
 
