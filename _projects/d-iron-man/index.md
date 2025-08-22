@@ -13,7 +13,7 @@ skills:
 - Microcontrollers (Arduino Nano Every)
 - Power Systems (battery integration, voltage regulation)
 - Arduino Programming
-main-image: /
+main-image: /ironman-project-cover.jpg
 ---
 
 ## Overview  
