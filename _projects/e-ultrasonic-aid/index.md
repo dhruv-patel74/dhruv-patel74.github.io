@@ -8,5 +8,9 @@ skills:
 - Actuators (Servos, Vibration Motors)
 - Microcontrollers
 - Arduino Programming
-main-image: /project.webp 
+main-image: /ultrasonic-project-cover.png
 ---
+
+---
+
+# MORE WILL BE FILLED OUT SOON
