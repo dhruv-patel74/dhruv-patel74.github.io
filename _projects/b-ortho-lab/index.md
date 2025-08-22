@@ -6,7 +6,7 @@ skills:
 - FDM (3D Printing)
 - Cell Culture
 - Biomechanical Testing
-main-image: /project.webp 
+main-image: /lab-project-cover.jpg 
 ---
 
 ---
