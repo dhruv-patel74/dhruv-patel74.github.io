@@ -3,7 +3,8 @@ layout: post
 title: Orthopedic Laboratory Work
 description:  Researcher @ Novopedics Orthopedic Lab
 skills: 
-- skill 1
-- skill 2
+- FDM (3D Printing)
+- Cell Culture
+- Biomechanical Testing
 main-image: /project.webp 
 ---
