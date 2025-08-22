@@ -3,7 +3,10 @@ layout: post
 title: The Ultrasonic Aid
 description:  Honors Intro to Engineering Semester Project
 skills: 
-- skill 1
-- skill 2
+- Engineering Notebook
+- Breadboarding (circuit testing)
+- Actuators (Servos, Vibration Motors)
+- Microcontrollers
+- Arduino Programming
 main-image: /project.webp 
 ---
