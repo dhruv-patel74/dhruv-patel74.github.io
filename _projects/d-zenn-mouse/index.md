@@ -6,5 +6,9 @@ skills:
 - Engineering Notebook
 - Onshape
 - Python
-main-image: /project.webp 
+main-image: /zennmouse-project-cover.png 
 ---
+
+---
+
+# MORE WILL BE FILLED OUT SOON
